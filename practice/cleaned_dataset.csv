@@ -1,0 +1,5 @@
+Model_name,Accuracy
+Gemini,90
+ChatGPT,80
+Claude,75
+Anthropic,95
